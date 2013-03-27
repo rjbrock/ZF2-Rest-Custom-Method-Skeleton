@@ -3,7 +3,7 @@ ZendSkeletonApplication with Custom HTTP Methods enabled
 
 Description
 ------------
-This is a basic example of adding custom HTTP methods to your zend restful controllers.
+This is a basic example of adding custom HTTP methods to your zend restful controllers.  I have a more detailed explanation of what I am doing on my blog: http://rickbrock.com/2013/03/23/custom-http-methods-in-zf2/
 
 Instructions
 -------------
