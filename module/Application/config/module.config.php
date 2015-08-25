@@ -37,5 +37,10 @@ return array(
         ),
     ),
 
+    'http_methods_listener' => array(
+        'allowed_methods' => array(
+            'DOSTUFF',
+        ),
+    ),
 
 );
