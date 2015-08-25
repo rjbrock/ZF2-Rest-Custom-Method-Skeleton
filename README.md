@@ -20,7 +20,14 @@ php composer.phar update
 Testing
 --------
 To test the custom http method using curl:
-curl -X DOSTUFF your-server-address:port/myrest
 
+    curl -X DOSTUFF your-server-address:port/myrest
 
+Or, install phpunit (if you haven't already)
+
+    composer global require phpunit/phpunit
+
+and run in the project root
+
+    phpunit
 
